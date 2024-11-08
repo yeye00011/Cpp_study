@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\three_dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\three_dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\oven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\oven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\alarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\alarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\quadrant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\quadrant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\yoon_year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\yoon_year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\test_res.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\test_res.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\comp_two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BD2CA-9AB9-4788-8BDD-F18218F8636F}|main\\main.vcxproj|solutionrelative:main\\comp_two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "three_dice.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\three_dice.cpp",
+              "RelativeDocumentMoniker": "main\\three_dice.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\three_dice.cpp",
+              "RelativeToolTip": "main\\three_dice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T06:40:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "oven.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\oven.cpp",
+              "RelativeDocumentMoniker": "main\\oven.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\oven.cpp",
+              "RelativeToolTip": "main\\oven.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T06:10:41.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "alarm.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\alarm.cpp",
+              "RelativeDocumentMoniker": "main\\alarm.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\alarm.cpp",
+              "RelativeToolTip": "main\\alarm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T06:03:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quadrant.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\quadrant.cpp",
+              "RelativeDocumentMoniker": "main\\quadrant.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\quadrant.cpp",
+              "RelativeToolTip": "main\\quadrant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T06:00:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "yoon_year.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\yoon_year.cpp",
+              "RelativeDocumentMoniker": "main\\yoon_year.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\yoon_year.cpp",
+              "RelativeToolTip": "main\\yoon_year.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T05:56:41.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test_res.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\test_res.cpp",
+              "RelativeDocumentMoniker": "main\\test_res.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\test_res.cpp",
+              "RelativeToolTip": "main\\test_res.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T05:51:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "comp_two.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\comp_two.cpp",
+              "RelativeDocumentMoniker": "main\\comp_two.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\prctce\\C\u002B\u002B\\02_conditional_statement\\main\\main\\comp_two.cpp",
+              "RelativeToolTip": "main\\comp_two.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T05:48:26.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
